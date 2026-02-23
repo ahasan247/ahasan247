@@ -5,49 +5,49 @@
 📍 Dhaka, Bangladesh — Open to Global Opportunities  
 📧 ahasan.9249@gmail.com  
 🔗 GitHub: https://github.com/ahasan247  
+💼 LinkedIn: https://www.linkedin.com/in/ahasanul-hoque-5661a81ab  
 
 ---
 
 ## 🚀 About Me
 
-Backend-focused Software Engineer with 2+ years of experience building scalable enterprise systems using Laravel, PHP, and MySQL.
+Backend Software Engineer with 2+ years of experience building scalable enterprise systems using Laravel, PHP, and MySQL.
 
-I specialize in:
+I specialize in designing modular, secure, and high-performance backend architectures for:
 
-- Modular Architecture (Repository–Service Pattern)
-- RESTful API Development (JWT / OAuth 2.0)
-- RBAC & Secure Backend Systems
-- Performance Optimization (Indexing, Caching, Query Tuning)
-- Dockerized Deployments (VPS / AWS)
-- ERP & FinTech Systems
+- ERP & HRM Systems (300+ branches deployment)
+- FinTech Platforms
+- Project Management Systems
+- RESTful API-driven applications
 
-I focus on writing clean, maintainable, production-ready backend systems.
+Strong focus on clean architecture, performance optimization, and production-grade deployments.
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahasan247&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahasan247&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahasan247&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahasan247&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
 # 🛠 Tech Stack
 
-## 💻 Backend
+## 💻 Backend Engineering
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-green?style=for-the-badge)
 ![JWT](https://img.shields.io/badge/JWT-Authentication-orange?style=for-the-badge)
 ![OAuth](https://img.shields.io/badge/OAuth-2.0-blue?style=for-the-badge)
+![RBAC](https://img.shields.io/badge/RBAC-Authorization-red?style=for-the-badge)
 
 ## 🗄 Database & Caching
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-## ⚙ DevOps
+## ⚙ DevOps & Deployment
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
@@ -68,10 +68,10 @@ Enterprise HRM platform deployed across **300+ branches**.
 - Role-Based Access Control  
 
 **Engineering Highlights**
-- Multi-branch architecture  
-- Optimized MySQL indexing  
+- Multi-branch scalable architecture  
+- Optimized MySQL indexing & query tuning  
 - Secure authentication & authorization  
-- Scalable backend design  
+- High-performance backend design  
 
 ---
 
@@ -82,10 +82,10 @@ Enterprise HRM platform deployed across **300+ branches**.
 Backend contributor for a pooled micro-investment platform.
 
 **Key Contributions**
-- Secure transactional database design  
+- Secure transactional database logic  
 - Payment gateway integration  
 - REST API development  
-- Data integrity & security optimization  
+- Data integrity and financial security optimization  
 
 ---
 
@@ -93,85 +93,52 @@ Backend contributor for a pooled micro-investment platform.
 
 Architect & Lead Backend Developer  
 
-A modular project management system built with clean architecture principles.
+Modular project management system built with clean architecture principles.
 
 **Core Features**
 - Issue & Task Tracking  
 - Backlog Management  
-- Agile Kanban Board  
+- Agile Kanban Workflow  
 - RBAC with granular permissions  
-- Comment & attachment system (polymorphic relationships)
+- Polymorphic comment & attachment system  
 
 **Architecture**
 - Modular structure (nwidart/laravel-modules)  
-- Repository–Service Pattern  
-- JWT-based secure APIs  
-- Docker deployment  
+- Repository–Service pattern  
+- Secure REST APIs (JWT)  
+- Dockerized deployment on VPS/AWS  
 
 ---
 
 # 📖 Case Studies
 
-## 🏢 Case Study: HRM System Scaling Across 300+ Branches
+## 🏢 Scaling HRM Across 300+ Branches
+Designed multi-branch architecture with optimized database indexing and secure RBAC, enabling centralized HR operations and efficient payroll processing.
 
-**Problem:**  
-Organizations needed centralized HR operations across distributed branches.
+## 💰 Secure FinTech Transactions
+Implemented transactional integrity layers and secure API architecture to ensure reliable micro-investment processing.
 
-**Solution:**  
-Designed multi-tenant style architecture with optimized indexing and branch-based data segregation.
-
-**Impact:**  
-- Reduced payroll processing time  
-- Improved reporting accuracy  
-- Centralized employee management  
+## 📊 Modular Project System Design
+Developed a scalable modular backend architecture enabling maintainable feature expansion and enterprise-level flexibility.
 
 ---
 
-## 💰 Case Study: Secure FinTech Transactions
-
-**Problem:**  
-Need for secure pooled investment handling.
-
-**Solution:**  
-Implemented transactional logic with database consistency, validation layers, and secure API endpoints.
-
-**Impact:**  
-- Improved transaction integrity  
-- Secure financial data handling  
-
----
-
-## 📊 Case Study: Modular PM System Architecture
-
-**Problem:**  
-Need for scalable and maintainable project management platform.
-
-**Solution:**  
-Implemented modular Laravel architecture with Repository-Service pattern and RBAC.
-
-**Impact:**  
-- Clean, maintainable codebase  
-- Easy feature expansion  
-- Enterprise-ready structure  
-
----
-
-# 🎯 Currently Exploring
+# 🎯 Currently Improving
 
 - Advanced System Design
-- Scalable API Architecture
-- Cloud-native deployments
-- Performance optimization strategies
+- Cloud-native architecture
+- Scalable API infrastructure
+- Performance optimization at scale
 
 ---
 
-# 📬 Contact Me
+# 📬 Let's Connect
 
 If you're hiring Backend Engineers or building scalable systems:
 
 📧 **ahasan.9249@gmail.com**  
-🌍 Open to relocation & international roles  
+💼 LinkedIn: https://www.linkedin.com/in/ahasanul-hoque-5661a81ab  
 
 ---
 
-⭐ If you find my work interesting, feel free to explore and star my repositories!
+⭐ Explore my repositories to see production-style backend implementations.
